@@ -8,5 +8,5 @@ These are the projects I worked on for this course. They are built in R and the 
 - "Lateral dispersal of aquatic insects". With bayesian inference, we used a mixed effects model with a exponential function to explore which family of Trichoptera has higher and lower dispersion from the stream.
 - "Reproductive isolation by distance". We found correlation between genetic and geografic distance in *Charadrius nivosus* populations using linear regression and a Mantel test.
 
-## How to see the reports?
+## How to see the reports
 Navigate to the different folders of each project and look for the ".md" file. It contains the rendered code :D
