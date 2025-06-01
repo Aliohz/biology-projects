@@ -1,6 +1,6 @@
 ---
 title: "Proyecto 2. Patrones en el ADN: Identificación de sitios candidatos de replicación de citomegalovirus (CMV) en el genoma humado usando el proceso de Poisson."
-output: html_notebook
+output: github_document
 ---
 
 Para: Pavel García Soto<br>

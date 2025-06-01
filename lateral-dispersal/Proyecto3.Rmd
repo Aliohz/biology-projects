@@ -1,6 +1,6 @@
 ---
 title: "Proyecto 3. Dispersión lateral de insectos acuáticos del orden Trichoptera en un arroyo de la Mata Atlantica en Brasil"
-output: html_notebook
+output: github_document
 ---
 Para: Pavel García Soto<br>
 De: Abner Herrera
